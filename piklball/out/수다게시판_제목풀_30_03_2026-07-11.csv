@@ -1,0 +1,31 @@
+id,persona,title,keyword_policy
+1,P01,퇴근 후 피클볼 한 게임이 딱 좋네요,keyword_once
+2,P02,처음 모임에서 이름부터 물어봐도 될까요?,no_forced_keyword
+3,P03,이번 주는 운동 가는 날이 더 기다려져요,no_forced_keyword
+4,P04,피클볼 패들 그립은 언제 바꾸게 되나요?,keyword_once
+5,P05,테니스식 백핸드가 자꾸 나와요,no_forced_keyword
+6,P06,오늘은 그늘이 있는 쪽이 더 반갑네요,no_forced_keyword
+7,P07,공 따라가다 제자리에서 한 바퀴 돌았어요,no_forced_keyword
+8,P08,가족끼리 치니 점수보다 웃음이 많네요,no_forced_keyword
+9,P09,같은 공을 놓쳐도 다시 해보게 되네요,no_forced_keyword
+10,P10,조용한 코트가 랠리 시작하니 달라지네요,no_forced_keyword
+11,P11,아침 코트 공기가 생각보다 좋았어요,no_forced_keyword
+12,P12,힘을 빼려다 발끝만 더 바빠졌네요,no_forced_keyword
+13,P13,먼저 웃어준 분 덕분에 덜 어색했어요,no_forced_keyword
+14,P14,오늘은 공 하나 끝까지 따라가 봤어요,no_forced_keyword
+15,P15,주말 약속보다 코트 생각이 먼저 나요,no_forced_keyword
+16,P16,피클볼 점수 부르다 제가 먼저 웃었어요,keyword_once
+17,P17,쉬었다 치니 공 속도가 더 빠르게 느껴져요,no_forced_keyword
+18,P18,상대 실수에도 분위기가 좋았던 게임,no_forced_keyword
+19,P19,이번엔 서브 위치 하나만 기억해보려고요,no_forced_keyword
+20,P20,처음엔 네트 앞이 제일 무서웠어요,no_forced_keyword
+21,P01,오늘 피클볼 덕에 퇴근 후가 가벼웠어요,keyword_once
+22,P04,피클볼 패들 면이 넓게 느껴지는 날도 있나요?,keyword_once
+23,P16,피클볼 서브할 때마다 순서를 다시 봐요,keyword_once
+24,P05,다른 운동처럼 세게 치면 안 되겠네요,no_forced_keyword
+25,P06,바람 부는 날은 공이 더 말 안 듣네요,no_forced_keyword
+26,P10,옆 팀의 응원 소리에 저도 웃었어요,no_forced_keyword
+27,P02,처음 게임에서 실수해도 괜찮겠죠?,no_forced_keyword
+28,P14,짧은 랠리도 끊기지 않으면 기분 좋아요,no_forced_keyword
+29,P17,다시 시작한 뒤엔 쉬는 타이밍도 어렵네요,no_forced_keyword
+30,P19,작은 목표를 지키니 다음 게임이 편해져요,no_forced_keyword

@@ -1,0 +1,31 @@
+id,persona,title,length,topic_group,form,keyword_policy
+1,P03,전엔 운동을 미뤘는데 요즘은 코트가 먼저 생각나요,27,생활 리듬,전후 대비 후기,no_forced_keyword
+2,P13,같은 팀이 된 뒤 인사가 편해졌어요,19,인사 관계,잔잔한 후기,no_forced_keyword
+3,P07,또 공보다 먼저 뛰었네요,13,발놀림 실수,짧은 자기디스,no_forced_keyword
+4,P11,아침엔 코트가 조용해요,12,아침 루틴,담백한 관찰,no_forced_keyword
+5,P20,이제야 네트 앞이 조금 덜 무서워요,19,입문 적응,부담 없는 격려,no_forced_keyword
+6,P01,퇴근 후 피클볼을 치고 나니 하루가 덜 길게 느껴지네요,30,퇴근 뒤 기분 변화,후기,keyword_once
+7,P09,이번엔 리턴 하나만 보고 치려 해요,19,반복 실수 회복,배움 진행형,no_forced_keyword
+8,P13,먼저 수고했다 말하니 마음이 편했어요,20,인사 관계,관계 후기,no_forced_keyword
+9,P15,금요일엔 패들부터 꺼내요,13,주말 계획,미래형 수다,no_forced_keyword
+10,P02,모임 가기 전엔 어느 정도 먼저 인사하나요?,24,첫 모임,조심스러운 질문,no_forced_keyword
+11,P16,피클볼 서브 순서가 헷갈릴 때 어떻게 외우세요?,26,규칙 순서,기억법 질문,keyword_once
+12,P10,옆 코트의 박수에 저도 긴장이 풀렸어요,21,분위기 응원,관찰 후기,no_forced_keyword
+13,P06,바람이 불면 물부터 챙겨요,14,날씨 컨디션,짧은 루틴,no_forced_keyword
+14,P18,랠리가 길어질수록 말수가 줄어요,17,랠리 협력,차분한 관찰,no_forced_keyword
+15,P05,다른 운동 버릇이 또 나왔네요,16,이전 운동 습관,자기반성,no_forced_keyword
+16,P04,그립 두께가 다르면 피클볼 패들 느낌도 달라질까요?,28,장비 선택,기준 질문,keyword_once
+17,P19,작은 목표는 리턴 방향 하나로 정했어요,21,기술 목표,다음 게임 계획,no_forced_keyword
+18,P03,요즘은 약속보다 운동 가방을 먼저 챙겨요,22,생활 리듬,전후 대비 후기,no_forced_keyword
+19,P14,공 하나 살린 날,9,작은 랠리 성취,짧은 감탄,no_forced_keyword
+20,P07,공 따라가다 또 멈췄어요,13,발놀림 실수,짧은 자기디스,no_forced_keyword
+21,P12,손보다 어깨에 힘이 먼저 들어가네요,19,힘 조절,실수 고백,no_forced_keyword
+22,P17,오랜만에 쳤더니 다음 날보다 오늘이 더 낯설어요,26,운동 복귀,적응 후기,no_forced_keyword
+23,P11,아침엔 물 한 병이면 충분해요,16,아침 루틴,담백한 일상,no_forced_keyword
+24,P10,처음엔 조용하다 끝날 땐 웃었어요,18,분위기 배려,관찰 후기,no_forced_keyword
+25,P14,오늘은 랠리 두 번 성공,13,작은 랠리 성취,짧은 감탄,no_forced_keyword
+26,P16,피클볼 점수는 말하면서 외우는 게 나을까요?,24,점수 규칙,기억법 질문,keyword_once
+27,P08,같이 웃고 나니 게임이 더 기억나요,19,가족 친구,따뜻한 관찰,no_forced_keyword
+28,P19,이번 주 목표는 서브 뒤 자리 지키기,20,기술 목표,다음 게임 계획,no_forced_keyword
+29,P06,오늘은 그늘부터 찾게 돼요,14,날씨 컨디션,짧은 관찰,no_forced_keyword
+30,P04,피클볼 패들 무게는 어떤 기준으로 골라야 할까요?,27,장비 선택,기준 질문,keyword_once

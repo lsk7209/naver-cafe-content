@@ -1,0 +1,31 @@
+id,persona,title,keyword_policy,duplicate_status
+1,P01,퇴근길엔 피곤했는데 피클볼 코트에선 좀 달라지네요,keyword_once,new
+2,P02,처음 모임 가기 전날엔 다들 뭐가 제일 걱정됐나요?,no_forced_keyword,new
+3,P03,주 3번 치다 보니 쉬는 날이 더 어색해졌어요,no_forced_keyword,new
+4,P04,피클볼 패들 그립이 손에 안 맞는 느낌 다들 있었나요?,keyword_once,new
+5,P05,테니스 치던 습관이 여기서도 나와버렸네요,no_forced_keyword,new
+6,P06,오늘은 햇빛보다 바람이 더 신경 쓰였어요,no_forced_keyword,new
+7,P07,공 보려다 네트 앞에서 또 멈칫했네요,no_forced_keyword,new
+8,P08,가족이랑 쳤는데 제가 제일 진심이었어요 ㅎㅎ,no_forced_keyword,new
+9,P09,같은 실수를 또 했는데 이번엔 웃고 넘겼어요,no_forced_keyword,new
+10,P10,옆 코트의 긴 랠리를 보니 괜히 박수 치게 되네요,no_forced_keyword,new
+11,P11,아침 운동 뒤 커피가 더 맛있게 느껴지는 날,no_forced_keyword,new
+12,P12,힘 빼려고 했는데 손보다 표정에 힘이 들어갔네요,no_forced_keyword,new
+13,P13,같은 팀이 된 분과 말 한마디 나누니 편해졌어요,no_forced_keyword,new
+14,P14,오늘은 짧은 랠리 하나도 꽤 오래 기억날 것 같아요,no_forced_keyword,new
+15,P15,금요일 저녁부터 코트 갈 생각에 괜히 들뜨네요,no_forced_keyword,new
+16,P16,피클볼 서브 순서 게임 끝나고 나서야 이해했어요,keyword_once,new
+17,P17,오랜만에 치니 첫 게임은 낯설고 두 번째는 반갑네요,no_forced_keyword,new
+18,P18,상대가 살려준 공 하나 덕분에 게임이 재밌었어요,no_forced_keyword,new
+19,P19,이번 주 목표는 서브 하나만 편하게 넣어보기예요,no_forced_keyword,new
+20,P20,처음 시작할 때의 어색함이 이제는 조금 웃기네요,no_forced_keyword,new
+21,P01,오늘 피클볼은 회사 생각을 잠깐 잊게 해줬어요,keyword_once,new
+22,P04,피클볼 패들 무게가 다르게 느껴지는 날도 있나요?,keyword_once,new
+23,P16,피클볼 점수 말하다가 둘 다 자신 없어졌네요,keyword_once,new
+24,P05,다른 운동에서 배운 발놀림이 여기선 잘 안 통하네요,no_forced_keyword,new
+25,P06,더운 날엔 코트 가기 전보다 끝나고가 더 고민이에요,no_forced_keyword,new
+26,P10,처음 보는 분의 배려 한마디가 오래 남네요,no_forced_keyword,new
+27,P02,게임 시작 전에 어디에 서 있어야 할지 제일 긴장돼요,no_forced_keyword,new
+28,P14,공이 네트를 넘는 순간보다 그다음이 더 재밌네요,no_forced_keyword,new
+29,P17,쉬는 동안 잊었던 감각이 한 게임 뒤에 돌아왔어요,no_forced_keyword,new
+30,P19,작은 목표를 적어뒀더니 연습이 덜 막막해졌어요,no_forced_keyword,new
